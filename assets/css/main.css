@@ -1959,6 +1959,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out;
+		font-size: 30px;
 	}
 
 		input[type="button"]:hover,
@@ -2264,6 +2265,7 @@ input, select, textarea {
 			}
 	#intro {
 		font-size: 20pt;
+		font-weight: 350;
 		color: rgb(255, 255, 255);
 	}
 
