@@ -1755,14 +1755,16 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
+			width: 50px;
+			height: 50px;
 			background: #f00;
+			border-radius: 40%;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 50px;
+				height: 50px;
+				border-radius: 40%;
 			}
 
 		.image.fit {
@@ -1790,7 +1792,7 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-	
+
 
 /* List */
 
@@ -1983,7 +1985,7 @@ input, select, textarea {
 
 	.item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
-		margin-bottom: 40px;
+		margin-bottom: 33px;
 	}
 
 		.item header {
@@ -2339,7 +2341,7 @@ input, select, textarea {
 		/* Item */
 
 			.item {
-				margin-bottom: 20px;
+				margin-bottom: 1px;
 			}
 
 		/* Header */
@@ -2412,7 +2414,7 @@ input, select, textarea {
 		/* Item */
 
 			.item {
-				margin-bottom: 15px;
+				margin-bottom: 20px;
 			}
 
 		/* Icons */
